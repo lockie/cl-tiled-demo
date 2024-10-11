@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=cl-tiled demo
+Exec=cl-tiled-demo
+Terminal=false
+Categories=Game;
+Icon=icon

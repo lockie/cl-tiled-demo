@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.0" orientation="orthogonal" renderorder="right-down" width="40" height="25" tilewidth="32" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="17">
+ <tileset firstgid="1" source="dungeontileset-extended2.tsx"/>
+ <layer id="1" name="floor" width="40" height="25">
+  <data encoding="base64" compression="zlib">
+   eJx1lUuWBCEIBNvPycST6cWnFsabkOpe+KZakIQkYVr5fPpz9nPa+eZvPGc+px47J87fefzq+bYvMceJF+fb77psYK3jx3cXRj3+7fgM3Q1hUssUxla8mWprwiW/ce5CduMv4Xfd4bfk249vyCd0qHEpd2oiDnmBNxMu8al7yD6F3WVbx9aEjS1kq6rV+ZOX8+eefPgd5c7Jfl1x3VPyyPyhD+dFDPSHXsDJ9y3d8xsOwOnyj3L3nxyZCfghb2vIfFTZdvLZwgZ/6rdn1HOIHtxjsOgjvYofuPAa5Z5d9wfN2D70Bn+Oe27MLVxj55nPucHHFL73E++sBWsQP2wz+Y9ya8I9Iy/etXLr0BpHq+QEL1N31vEW1i9teJazprq+qSX7LuFRE3nhj49r8P4hnylc76vQ+15uvdcUd+h4JzrXUd76ggfvukj46MY5b9k8J+4fs73TG/NAbuZ7y+YdANfepebMfGND72jJOo9y8/+tvqaY1NoUL88gHDTFZCaoxbvUM+B5cd94533gmQ+9jXJzmt951qkf7qpizfKed/cHDsiNe3PUy7vXxnNfvBOsefc+7+MtXO9s+4NXy/9cjmTH31xmLY2E49mglijv2V8JBy48u8RHb95D7qU1nvXc9d67LPfM/fcu8v+DLb7MHXxX4Vsn3/ZGL/e8gWn9eoY9l94B5AjX3LeEbx3CofnLu2Aku3eC54ZcPStodgnLuudNrpH3uffeD/wGEz6wOf8qnCZ/7wrPae7Z0m/X4F3me3LIedCPmd7iax0Zz1qvuoMbevNrj/l/ijnzbiUXa8Pz6j7BtfeCd6LrrsLOu8+98jz47HLvInI3pmc1hL10ark1az7QM7VFunPO9qF2sMEair2Sr3vqXeKeWM/eX8SCp5rijfTtHmW+40vcP/qM6Pg=
+  </data>
+ </layer>
+</map>
